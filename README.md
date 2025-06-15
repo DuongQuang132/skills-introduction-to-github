@@ -2,9 +2,9 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey @DuongQuang132!
+Hey, mình là Duong Quang!
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+Mình đang làm quen với GitHub. Đây là bài tập đầu tiên. 😄
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
